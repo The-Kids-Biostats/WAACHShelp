@@ -1,5 +1,9 @@
 # Changelog
 
+## WAACHShelp 1.5.2 (2026-02-26)
+
+- Same as previous version.
+
 ## WAACHShelp 1.5.1 (2026-02-26)
 
 - Updates to README following transfer of ownership from `dempz` to
