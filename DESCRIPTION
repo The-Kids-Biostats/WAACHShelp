@@ -54,6 +54,6 @@ RoxygenNote: 7.3.3
 VignetteBuilder: knitr
 LazyData: true
 Config/testthat/edition: 3
-URL: https://github.com/dempz/WAACHShelp, https://dempz.github.io/WAACHShelp/
-BugReports: https://github.com/dempz/WAACHShelp/issues
+URL: https://github.com/The-Kids-Biostats/WAACHShelp, https://the-kids-biostats.github.io/WAACHShelp/
+BugReports: https://github.com/The-Kids-Biostats/WAACHShelp/issues
 Language: en-GB
