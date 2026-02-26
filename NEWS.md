@@ -1,5 +1,10 @@
 <!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
 
+# WAACHShelp 1.5.1 (2026-02-26)
+
+- Updates to README following transfer of ownership from `dempz` to `The-Kids-Biostats`.
+
+
 # WAACHShelp 1.5.0 (2025-11-13)
 
 - Same as previous version.
