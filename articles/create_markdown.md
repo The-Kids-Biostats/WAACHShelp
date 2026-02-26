@@ -10,7 +10,7 @@ The `create_markdown` function calls some pre-made templates and renders
 a pre-made template the analyst can use.
 
 The function works well in conjunction with
-[`WAACHShelp::create_project`](https://dempz.github.io/WAACHShelp/reference/create_project.md).
+[`WAACHShelp::create_project`](https://the-kids-biostats.github.io/WAACHShelp/reference/create_project.md).
 
 We are able to initialise both a HTML or Word document.
 

@@ -2,7 +2,7 @@
 
 ## Forward
 
-[`WAACHShelp::aducust_flag()`](https://dempz.github.io/WAACHShelp/reference/aducust_flag.md)
+[`WAACHShelp::aducust_flag()`](https://the-kids-biostats.github.io/WAACHShelp/reference/aducust_flag.md)
 automates the flagging of this `aducust` data (custodial record(s) for a
 set of individuals).
 

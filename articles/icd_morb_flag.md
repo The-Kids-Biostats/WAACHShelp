@@ -61,7 +61,7 @@ that can be “automatically” flagged in the morbidity dataset.
 
 This dataset contains the variable name, and the parameters to search
 across ICD codes (via
-[`WAACHShelp::val_filt`](https://dempz.github.io/WAACHShelp/reference/val_filt.md)).
+[`WAACHShelp::val_filt`](https://the-kids-biostats.github.io/WAACHShelp/reference/val_filt.md)).
 
 To explore this, let’s load the package data:
 

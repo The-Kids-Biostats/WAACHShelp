@@ -64,7 +64,7 @@ icd_morb_flag(
   Search parameters to search across when `diag_type == "custom"`. Must
   be a list where the keys are the variable names and values are the
   inputs to
-  [`WAACHShelp::val_filt`](https://dempz.github.io/WAACHShelp/reference/val_filt.md).
+  [`WAACHShelp::val_filt`](https://the-kids-biostats.github.io/WAACHShelp/reference/val_filt.md).
   Can also be a list of lists where multiple ICD can be searched across
   for a single variable. See examples for specification.
 
