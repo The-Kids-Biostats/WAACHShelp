@@ -26,7 +26,7 @@ theme_waachs <- function(base_size = 12,
                          base_line_size = base_size/22,
                          base_rect_size = base_size/22){
 
-  waachs_palette <- c("#D58957", "#FCD16B", "#89A1AD", "#FEF0D8")
+  waachs_palette <- c("#89A1AD", "#D58957", "#FCD16B", "#FEF1D9", "#000000")
 
   list(
     ggplot2::theme_minimal(base_size = base_size,
@@ -41,6 +41,7 @@ theme_waachs <- function(base_size = 12,
                                                              colour = "white"),
                      strip.background = ggplot2::element_rect(fill = "grey80",
                                                               colour = NA)),
-    ggplot2::scale_colour_manual(values = waachs_palette)
+    ggplot2::scale_colour_manual(values = waachs_palette),
+    ggplot2::scale_fill_manual(values = waachs_palette)
     )
 }
